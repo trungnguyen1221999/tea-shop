@@ -1,5 +1,9 @@
 # 🍵 Tea Shop Website
-
+<p align="center">
+  <img src="https://i.imgur.com/gQMM3lF.png" alt="" width="1000"/>
+  <img src="https://i.imgur.com/0cyWXxf.png" alt="" width="1000"/>
+  <img src="https://i.imgur.com/V15bIAT.png" alt="" width="1000"/>
+</p>
 A simple and elegant **Tea Shop** website built using **pure HTML, CSS, and JavaScript**.  
 
 ---
